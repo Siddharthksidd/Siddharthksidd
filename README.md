@@ -1,12 +1,8 @@
 ### Hi, I'm Siddharrth K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am currently looking👀 for a career transition towards data analytics.
-I have also completed the IMB Data Analyst professional certification as my first step for my transition.
+I am currently looking👀 for a career transition towards Web Development.
+I have also completed The Complete 2024 Web Development Bootcamp by Dr. Angela Yu & pursuing Meta,s Front-End Developer Professional Certification for my transition.
 I am very much interested to join a team to develope my skillset further more in data analytics. 
-
-I just love the whole process of gathering data from a variety of sources and analysing it to make data driven decisions.
-I’m currently looking for a career transition towards Data Analytics.
-
 
 📫 Reach me at -
 <br>
