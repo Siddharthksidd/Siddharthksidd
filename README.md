@@ -7,7 +7,7 @@ I am very much interested to join a team to develope my skillset further more in
 📫 Reach me at -
 <br>
 <a href="https://www.linkedin.com/in/siddharthksidd/">
-  <img align="left" alt="Siddharth K's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Siddharth K's LinkedIN" width="22px" src="https://icons8.com/icon/13930/linkedin" />
 </a>
                             https://www.linkedin.com/in/siddharthksidd/
 <br>
